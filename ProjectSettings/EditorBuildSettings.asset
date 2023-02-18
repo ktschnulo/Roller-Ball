@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 03d30e20e3daed646baffeadfb8f11c5
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: b79d6a9b6760f0d41b05806c140cd609
+  - enabled: 1
+    path: Assets/Scenes/Level Complete.unity
+    guid: f37dd8ab0f1c1f547ab0d372f6274938
+  - enabled: 1
+    path: Assets/Scenes/Level 01.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Kay Scene.unity
+    guid: 87fba56f4c0972d4285f05d1616eea6d
+  - enabled: 0
+    path: Assets/Scenes/Kaycee Scene.unity
+    guid: 5e7e60608ffca59488088327e6b2c92e
+  - enabled: 0
+    path: Assets/Scenes/Olivia Scene.unity
+    guid: a5f104e8a54921b4f8cdb3932b95b204
+  - enabled: 0
+    path: Assets/Scenes/Chris Scene.unity
+    guid: 8159dd84efa95f8459dda5e2602fc6c4
+  - enabled: 0
+    path: Assets/Scenes/Sarah Scene.unity
+    guid: e9f7f7de0c898e145b6b97832dcb16d1
+  m_configObjects: {}
